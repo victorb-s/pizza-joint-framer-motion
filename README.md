@@ -18,6 +18,19 @@
   <img align="center" alt="Framer Motion" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg">
 </div>
 
+## 🕹️ Instalação do projeto:
+---
+
+<h3>Quer rodar o projeto na sua máquina?</h3>
+
+<br>
+
+1. Clica naquele botãozinho verde ```"Code"``` e baixa o zip!
+2. Extrai ele em alguma pastinha, abre o terminal (geralmente utilizando ```CTRL + '``` no VSCode)
+3. Instala as dependências com ```npm install```
+4. Prontinho, agora só esperar e rodar o projeto com ```npm start```!
+
+
 ## 🌐 Autor
 ---
 <br>
