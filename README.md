@@ -18,6 +18,8 @@
   <img align="center" alt="Framer Motion" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg">
 </div>
 
+<br>
+
 ## 🕹️ Instalação do projeto:
 ---
 
@@ -30,6 +32,7 @@
 3. Instala as dependências com ```npm install```
 4. Prontinho, agora só esperar e rodar o projeto com ```npm start```!
 
+<br>
 
 ## 🌐 Autor
 ---
